@@ -1,3 +1,2 @@
-# PlantsvsZombies
-
-Java Project to understand OOPs concepts using swing library
+# PlantsVsZombies
+Java Project to understand OOPs concepts and swing library
